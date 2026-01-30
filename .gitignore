@@ -4,7 +4,8 @@ dist
 dist-ssr
 *.local
 count.txt
-.env
+# .env is committed with defaults (no secrets)
+# Use .env.local for local overrides (DATABASE_URL, etc.)
 .env.local
 .nitro
 .tanstack
