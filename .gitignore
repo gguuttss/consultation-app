@@ -1,0 +1,22 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+count.txt
+.env
+.env.local
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+.vercel
+todos.json
+drizzle/
+
+# Local Netlify folder
+.netlify
+
+# Deploy temp files
+.env.deploy

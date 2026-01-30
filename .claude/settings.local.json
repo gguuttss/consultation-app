@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm dlx tailwindcss:*)",
+      "Bash(pnpm dlx:*)",
+      "Bash(pnpm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(pnpm build:*)",
+      "Bash(npx vite build)",
+      "Bash(pnpm drizzle-kit generate:*)",
+      "Bash(pnpm:*)"
+    ]
+  }
+}
